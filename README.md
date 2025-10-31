@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN_Final_Cover.svg" width="70%" alt="AIDEN — Inteligencia Artificial Latina">
+  <img src="docs/AIDEN_Final_Cover.svg" width="40%" alt="AIDEN — Inteligencia Artificial Latina">
 </p>
 
 <h1 align="center">🤖 AIDEN Core — Inteligencia Artificial Latina</h1>
