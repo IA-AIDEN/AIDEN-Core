@@ -1,0 +1,4 @@
+Modelo,Contexto Tokens,Latencia (s),Razonamiento (Score),Costo por 1k tokens (USD)
+AIDEN-Core,1000000,1.2,0.95,0.002
+DeepSeek,32000,1.1,0.89,0.004
+Qwen,32000,1.0,0.91,0.003

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+  <rect x="50" y="50" width="700" height="300" fill="#f4f4f4" stroke="#333" stroke-width="2"/>
+  <text x="400" y="90" font-size="20" text-anchor="middle" fill="#333">Arquitectura Conceptual de AIDEN-Core</text>
+  <rect x="100" y="130" width="150" height="80" fill="#cce5ff" stroke="#004085" stroke-width="2"/>
+  <text x="175" y="175" font-size="14" text-anchor="middle">Frontend</text>
+  <rect x="300" y="130" width="150" height="80" fill="#d4edda" stroke="#155724" stroke-width="2"/>
+  <text x="375" y="175" font-size="14" text-anchor="middle">Orquestador</text>
+  <rect x="500" y="130" width="150" height="80" fill="#fff3cd" stroke="#856404" stroke-width="2"/>
+  <text x="575" y="175" font-size="14" text-anchor="middle">LLM / Core</text>
+  <rect x="300" y="250" width="150" height="60" fill="#f8d7da" stroke="#721c24" stroke-width="2"/>
+  <text x="375" y="285" font-size="14" text-anchor="middle">Memoria / API</text>
+</svg>

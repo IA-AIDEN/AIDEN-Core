@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+  <rect width="800" height="400" fill="#f9fafb"/>
+  <text x="400" y="40" font-size="20" text-anchor="middle" fill="#222">Pipeline de Entrenamiento AIDEN-Core</text>
+  <rect x="80" y="100" width="150" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+  <text x="155" y="135" font-size="13" text-anchor="middle">Pre-Training</text>
+  <rect x="280" y="100" width="150" height="60" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+  <text x="355" y="135" font-size="13" text-anchor="middle">Fine-Tuning</text>
+  <rect x="480" y="100" width="150" height="60" fill="#fff3e0" stroke="#ef6c00" stroke-width="2"/>
+  <text x="555" y="135" font-size="13" text-anchor="middle">Evaluación</text>
+  <rect x="280" y="250" width="150" height="60" fill="#fce4ec" stroke="#c2185b" stroke-width="2"/>
+  <text x="355" y="285" font-size="13" text-anchor="middle">Despliegue</text>
+</svg>
