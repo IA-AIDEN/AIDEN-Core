@@ -28,4 +28,4 @@ Construir un modelo **con identidad latinoamericana**, conversacional por voz y 
 
 ---
 
-© 2025 JMC Studio Creativo — AIDEN.
+© 2025 JMC Studio Creativo — AIDEN Latina.
