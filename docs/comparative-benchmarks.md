@@ -1,22 +1,27 @@
-# Benchmarks comparativos: AIDEN-Core vs DeepSeek vs Qwen
-
-**Última actualización:** 2025-10-30  
-**Propósito:** ofrecer una visión técnica de rendimiento y capacidades con métricas reproducibles y tablas.
-
----
-
-## 1. Metodología
-- **Conjunto de pruebas:** generación coherente, resolución matemática, comprensión de contexto largo, latencia al generar 256 tokens.
-- **Métricas:** Perplexity, exactitud de razonamiento, latencia (s) y costo estimado por 1k tokens.
+<p align="center">
+  <img src="./aiden-cover.svg" width="65%" alt="AIDEN — Inteligencia Artificial Latina" />
+</p>
 
 ---
 
-## 2. Tabla comparativa
 
-| Modelo | Ventana de contexto | Latencia | Razonamiento | Costo/1k tokens |
-|--------|---------------------|-----------|--------------|----------------|
-| **AIDEN-Core** | 32K–1M tokens | 0.9–2.5 s | Alto (fine-tune + retrieval) | $0.002 |
-| **DeepSeek** | 32K | 1.1 s | Medio-Alto | $0.004 |
-| **Qwen** | 32K | 1.0 s | Alto | $0.003 |
+# Benchmarks Comparativos (AIDEN-Core vs. referentes)
 
-> **Nota:** Datos estimados basados en pruebas internas. Se actualizarán en `/docs/assets/benchmarks.csv` con resultados reales.
+> Documento base para seguimiento; cifras indicativas/normalizadas para *storytelling técnico* y ajuste posterior con mediciones reales.
+
+| Modelo                     | Enfoque principal                    | Window (tokens) | Razonamiento | Idiomas | Notas |
+|---------------------------|--------------------------------------|-----------------|-------------:|:-------:|-------|
+| **AIDEN-Core**            | Voz-conversación + acompañamiento    | 32K → 1M        | Alto         | ES/EN   | Optimizado para diálogo latino |
+| DeepSeek (ref. abierta)   | Razonamiento escalado                | 128K+           | Alto         | EN/ES   | Inspiración técnica |
+| Qwen (ref. abierta)       | Cobertura multilingüe                | 128K+           | Medio-Alto   | Multí   | Buen balance coste/rendimiento |
+| GPT (histórico de mercado)| Generalista premium                  | 128K+           | Alto         | Multí   | Referente comercial |
+
+> Próximas métricas: exactitud en QA, groundedness, toxicidad, *latency p95* y WER voz.
+
+---
+
+## Próximas acciones
+- Publicar CSV de *benchmarks* reproducibles.  
+- Añadir gráficos comparativos (latencia, coste/1K tokens, WER voz).
+
+© 2025 JMC Studio Creativo — AIDEN.

@@ -1,33 +1,31 @@
-# Estrategia de entrenamiento y datasets — AIDEN-Core
-
-**Objetivo:** definir fases, fuentes de datos y criterios de evaluación.
-
----
-
-## Fases
-1. **Pre-training** (2023–2024): corpus multilingüe, voz + texto.  
-2. **Fine-tuning emocional** (2024): datasets de empatía y tono.  
-3. **Entrenamiento de voz** (2025): entonación, ritmo y emociones.
+<p align="center">
+  <img src="./aiden-cover.svg" width="65%" alt="AIDEN — Inteligencia Artificial Latina" />
+</p>
 
 ---
 
-## Datasets
-- **VoiceHuman-50K** — diálogos empáticos.  
-- **OpenAudio-Global** — corpus abierto multilingüe.  
-- **UNIT Conversations** — dataset educativo.  
+
+# Estrategia de Entrenamiento (2023 → Actualidad)
+
+## 1) Objetivo
+Construir un modelo **con identidad latinoamericana**, conversacional por voz y con **empatía calibrada**.
+
+## 2) Fases
+- **2023Q4–2024H1**: investigación y *prompt engineering* de voz/texto.  
+- **2024H2–2025H2**: curación de corpus ES/EN, *supervised finetuning* y RAG.  
+- **2026**: entrenamiento extendido, evaluación masiva, *safety tuning*.  
+- **2027**: *A/B testing* con usuarios reales y mejora iterativa continua.
+
+## 3) Datasets (categorías)
+- Conversación en español latino (formal/coloquial).  
+- Instrucciones académicas y técnicas (STEM, negocios).  
+- Datos emocionales etiquetados (tono, intención, valencia).  
+- Datos de voz (transcripción + prosodia).
+
+## 4) Evaluación
+- KPIs: **calidad lingüística**, **razonamiento**, **WER de voz**, **latencia p95**, **satisfacción**.  
+- *Human-in-the-loop* con panel latino y pruebas ciegas.
 
 ---
 
-## Pipeline
-1. Limpieza y anonimización.  
-2. Tokenización adaptada.  
-3. Balance semántico (voz/texto).  
-4. Evaluación continua.
-
----
-
-## Métricas de Éxito
-- Perplexity ↓  
-- Coherencia conversacional ↑  
-- Precisión de razonamiento ↑  
-- Latencia ↓
+© 2025 JMC Studio Creativo — AIDEN.

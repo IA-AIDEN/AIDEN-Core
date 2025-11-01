@@ -1,18 +1,23 @@
-# Roadmap — Cronograma de desarrollo AIDEN-Core (2023–2025)
+<p align="center">
+  <img src="./aiden-cover.svg" width="65%" alt="AIDEN — Inteligencia Artificial Latina" />
+</p>
 
-## 2023
-- Diseño conceptual y branding.  
-- Definición de arquitectura modular.  
+---
 
-## 2024
-- Entrenamiento base de lenguaje y empatía.  
-- Integración API.  
-- Testeo interno y validación emocional.
 
-## 2025
-- Implementación del sistema de voz adaptativo.  
-- Apertura de pruebas públicas (100K testers).  
-- Escalado a 10M usuarios potenciales.  
-- Documentación y ronda de inversión.
+# Hoja de Ruta (2023–2027)
 
-> Este roadmap refleja metas medibles centradas en impacto humano.
+| Periodo            | Hitos clave |
+|--------------------|-------------|
+| **2023 Q4**        | Visión AIDEN, primeros prototipos de conversación. |
+| **2024 H1–H2**     | Corpus latino, pruebas de voz y razonamiento. |
+| **2025 H1–H2**     | MVP funcional; documentación y *storytelling* técnico en español. |
+| **2026 (Año 100%)**| Desarrollo completo: entrenamiento, seguridad, despliegue propio. |
+| **2027 H1**        | Testeo con usuarios + lanzamiento progresivo. |
+| **2027 H2**        | Monetización: *freemium → premium*, API empresarial. |
+
+> Meta: **10M usuarios** y **1M premium** a mediano plazo.
+
+---
+
+© 2025 JMC Studio Creativo — AIDEN — George Márquez, Guayaquil, Ecuador.
