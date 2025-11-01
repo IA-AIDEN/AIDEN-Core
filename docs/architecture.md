@@ -53,4 +53,4 @@ POST --> TEXTO[Respuesta textual]
 
 ---
 
-© 2025 JMC Studio Creativo — AIDEN. Uso interno y para evaluación de inversionistas.
+© 2025 JMC Studio Creativo — AIDEN. Uso interno y para evaluación de inversiones.
