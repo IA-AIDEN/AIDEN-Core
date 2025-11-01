@@ -20,8 +20,8 @@
 
 ---
 
-## Próximas acciones
+## Próximas acciones de recopilación de datos:
 - Publicar CSV de *benchmarks* reproducibles.  
 - Añadir gráficos comparativos (latencia, coste/1K tokens, WER voz).
 
-© 2025 JMC Studio Creativo — AIDEN.
+© 2025 JMC Studio Creativo — AIDEN IA Latina.
