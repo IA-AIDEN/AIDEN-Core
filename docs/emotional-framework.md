@@ -22,4 +22,4 @@ AIDEN (voz masculina) y AIVA (voz femenina) son **modelos de acompañamiento** c
 
 ---
 
-© 2025 JMC Studio Creativo — AIDEN.
+© 2025 JMC Studio Creativo — AIDEN IA Latina.
