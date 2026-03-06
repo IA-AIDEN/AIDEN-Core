@@ -77,5 +77,5 @@ El uso comercial, redistribución, entrenamiento de modelos derivados o integrac
 ---
 
 <p align="center">
-  <b>© 2025 JMC Studio Creativo — AIDEN IA Latina.</b>
+  <b>© 2026 JMC Studio Creativo — AIDEN IA Latina.</b>
 </p>
