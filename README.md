@@ -197,6 +197,7 @@ The evaluation process includes:
 - Latency measurement
 - Multidomain reasoning evaluation
 - Screenshot-based validation
+- Validation in recorded sessions
 - Cryptographic integrity verification
 
 ---
