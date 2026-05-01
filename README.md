@@ -142,6 +142,10 @@ The current infrastructure emphasizes:
 - Expandable assistant systems
 - Multi-environment deployment planning
 
+<p align="center">
+  <img src="assets/aiden-interface-v1.png" width="95%">
+</p>
+
 ---
 
 # Financial & Operational Overview
