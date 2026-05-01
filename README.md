@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN_Final_Cover.svg" width="38%" alt="AIDEN — Latin American Conversational AI">
+  <img src="assets/aiden-logo.png" width="38%" alt="AIDEN — Latin American Conversational AI">
 </p>
 
 <h1 align="center">
