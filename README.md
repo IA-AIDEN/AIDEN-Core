@@ -10,69 +10,329 @@
 </p>
 
 ---
+<p align="center">
+  <img src="docs/AIDEN_Final_Cover.svg" width="38%" alt="AIDEN — Latin American Conversational AI">
+</p>
 
-### 🧬 Estructura de Modelos del Ecosistema AIDEN
+<h1 align="center">
+AIDEN Core — Latin American Conversational AI
+</h1>
 
-| Modelo | Descripción | Aplicación |
-|:--|:--|:--|
-| **AIDEN One** | Modelo base de voz y texto con acompañamiento emocional masculino. | Asistencia personal, educación y conversación natural. |
-| **AIVA** | Versión femenina derivada, con voz emocional y empatía lingüística avanzada. | Acompañamiento emocional, aprendizaje y bienestar digital. |
-| **AIDEN Azul Deep** | Versión premium para creadores, profesionales y proyectos avanzados. | Producción creativa, análisis, generación de código e imágenes. |
-| **AIDEN API Azul Dark** | Versión empresarial e integrable para corporaciones y startups. | Desarrollo de IA embebida, automatización y proyectos a gran escala. |
+<p align="center">
+Independent conversational AI ecosystem developed from Latin America.<br>
+Focused on voice interaction, emotional communication, multidomain reasoning, and scalable conversational intelligence.
+</p>
 
----
+<p align="center">
 
-### 🧠 Filosofía del Proyecto
+<img src="https://img.shields.io/badge/AI%20Research-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE">
 
-> “AIDEN nace desde Latinoamérica como un proyecto de independencia tecnológica, diseñado para hablar, pensar y sentir en español latino.”
+<img src="https://img.shields.io/badge/Conversational%20AI-1E3A8A?style=for-the-badge&logo=googlemessages&logoColor=white">
 
-El propósito de AIDEN es unir **tecnología, empatía y conocimiento**, ofreciendo un modelo de IA con **voz humana**, comprensión emocional y una arquitectura abierta para la expansión de funciones y herramientas.  
-Su meta: ser la **primera IA latina** con impacto global.
+<img src="https://img.shields.io/badge/Voice%20Systems-127fa4?style=for-the-badge&logo=googleassistant&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/Multidomain%20Reasoning-0b7285?style=for-the-badge&logo=databricks&logoColor=white">
 
-### ⚙️ Arquitectura Técnica (vista general)
-
-📂 **/docs/** → Documentación técnica, benchmarks y estrategia de entrenamiento.  
-📂 **/samples/** → Ejemplos de prompts, respuestas y proyectos.  
-📂 **/config/** → Parámetros de configuración y plantillas base.  
-📂 **/datasets/** → Estructura de datasets para entrenamiento contextual y emocional.
+</p>
 
 ---
 
-### 🔍 Comparativa de Capacidades
+# Overview
 
-| Modelo | Tokens | Lenguajes | Entrada | Tipo de salida |
-|:--|:--|:--:|:--:|:--|
-| **AIDEN One** | 32K | Español, Inglés, Portugués | 🗣️ ⌨️ | Texto + voz natural |
-| **AIVA** | 64K | Español, Inglés | 🗣️ ⌨️ | Voz emocional |
-| **Azul Deep** | 500K | Multilenguaje | 🗣️ ⌨️ 🖼️ | Texto, imagen, código |
-| **Azul Dark API** | 1M+ | Multilenguaje + JSON | 🗣️ ⌨️ 🖼️ 🎞️ | Texto, imagen, voz y video |
+AIDEN is an independent conversational artificial intelligence project developed from Latin America with a strong focus on voice interaction, emotional communication, multilingual reasoning, and scalable AI infrastructure.
 
----
+The project was created as a long-term initiative to build a conversational AI ecosystem capable of combining:
 
-### 📊 Hoja de Ruta
+- Natural communication
+- Emotional interaction
+- Technical reasoning
+- Voice-first experiences
+- Multidomain cognitive capabilities
 
-| Año | Etapa | Objetivo |
-|:--|:--|:--|
-| **2023–2024** | Investigación y conceptualización | Diseño, branding y creación visual. |
-| **2025** | Desarrollo funcional (MVP) | Entrenamiento inicial y prueba real por voz. |
-| **2026–2027** | Escalamiento | Implementación total de API, Mixer y Managers. |
-| **2028+** | Globalización | Integración comercial e institucional LATAM–EE.UU. |
+Unlike synthetic concept projects, AIDEN Core is currently operating as a real MVP system under continuous testing and benchmark evaluation.
 
----
+The current development stage focuses on:
 
-### 📎 Enlaces Oficiales
-
-- 🌐 [Sitio oficial de AIDEN](https://www.jmcstudiocreativo.com/aiden-inteligencia-artificial-latina)  
-- 💼 [JMC Studio Creativo](https://www.jmcstudiocreativo.com)  
-- 📫 **Contacto:** contacto@jmcstudiocreativo.com  
+- Real-world conversational testing
+- Benchmark validation
+- Voice system experimentation
+- Infrastructure optimization
+- Controlled ecosystem expansion
 
 ---
 
-### ⚖️ Licencia y Derechos
+# Vision
 
-El uso comercial, redistribución, entrenamiento de modelos derivados o integración en productos requiere autorización expresa y por escrito de **JMC Studio Creativo** y su creador **George Márquez**.
+> “AIDEN was created from Latin America as an independent conversational AI initiative designed to communicate naturally, emotionally, and technically in Spanish and multilingual environments.”
+
+The long-term vision of AIDEN is to become a globally scalable conversational AI ecosystem originating from the Latin American technology sector while maintaining independent development and cultural identity.
+
+---
+
+# Current Development Status
+
+## Active Model
+
+Currently, the ecosystem operates around a single real and validated model:
+
+| Model | Status | Description |
+|---|---|---|
+| **AIDEN Core** | Active | Primary multidomain conversational AI model currently under real-world testing and benchmark validation. |
+
+---
+
+## Future Ecosystem Roadmap
+
+The following systems represent future expansion plans currently under conceptual and architectural development:
+
+| Future System | Planned Function |
+|---|---|
+| **AIDEN One** | Consumer conversational assistant focused on emotional voice interaction |
+| **AIVA** | Female conversational AI companion |
+| **AIDEN Azul Deep** | Advanced premium reasoning and creative model |
+| **AIDEN API Azul Dark** | Enterprise API and infrastructure ecosystem |
+
+---
+
+# Technical Overview
+
+<p align="center">
+  <img src="docs/architecture_overview.png" width="95%">
+</p>
+
+AIDEN follows a modular conversational AI architecture designed for scalability, voice integration, and multidomain reasoning.
+
+The current infrastructure emphasizes:
+
+- Conversational interaction
+- Voice-based communication
+- Scalable GPU execution
+- Modular ecosystem expansion
+- Benchmark-driven validation
+
+---
+
+# Core Specifications
+
+| Specification | Current Status |
+|---|---|
+| Model | AIDEN Core |
+| Development Stage | MVP v1.0.1 |
+| Architecture | Multidomain Conversational AI |
+| Parameters | 180B |
+| Context Window | 128K tokens |
+| Input Modalities | Text + Voice |
+| Output Modalities | Text + Voice |
+| Infrastructure | GPU-based cloud execution |
+| Hosting Environment | Hugging Face Premium |
+| Voice System | Scalable TTS research |
+| Access | Private testing and investor evaluation |
+| License | Proprietary |
+
+---
+
+# Key Capabilities
+
+## Conversational Interaction
+- Natural long-form conversations
+- Contextual continuity
+- Voice-first interaction philosophy
+
+## Multidomain Reasoning
+- Logical reasoning
+- Technical analysis
+- Linguistic interpretation
+- Conversational problem solving
+
+## Voice System Research
+- Text-to-speech experimentation
+- Emotional communication modeling
+- Natural conversational pacing
+
+## Modular Ecosystem Design
+- Future API infrastructure
+- Expandable assistant systems
+- Multi-environment deployment planning
+
+---
+
+# Financial & Operational Overview
+
+## Executive Summary — MVP V1.0.1
+
+AIDEN currently operates as a fully functional MVP platform developed through independent bootstrapped funding and disciplined resource management.
+
+The project already demonstrates real conversational and benchmark capabilities while maintaining a lightweight and optimized operational structure.
+
+Current investment efforts are intended to accelerate:
+
+- Infrastructure scaling
+- Voice system development
+- Ecosystem expansion
+- Real-world deployment
+- Performance optimization
+
+---
+
+## Operational Structure
+
+| Area | Current State |
+|---|---|
+| Development Model | Independent / Bootstrapped |
+| Operational Structure | Lean and optimized |
+| GPU Infrastructure | Hugging Face Premium |
+| Hosting Costs | Minimal |
+| Team Structure | Founder-led execution |
+| Monthly Burn Rate | Low and sustainable |
+| Infrastructure Philosophy | Efficient scalability |
+
+> Exact operational and financial details are available during private investor discussions.
+
+---
+
+# Benchmark Validation
+
+<p align="center">
+  <img src="docs/benchmark_overview.png" width="100%">
+</p>
+
+AIDEN Core has been evaluated using real-world benchmark methodologies under non-optimized execution conditions.
+
+The evaluation process includes:
+
+- Manual testing
+- Human qualitative scoring
+- Latency measurement
+- Multidomain reasoning evaluation
+- Screenshot-based validation
+- Cryptographic integrity verification
+
+---
+
+## Benchmark Results
+
+| Benchmark | Focus Area | API-100 Score |
+|---|---|---|
+| **Benchmark v1.0** | Cognitive Evaluation | 88.6 |
+| **Benchmark v2.0** | Multidomain Technical Evaluation | 90.0 |
+
+---
+
+## Technical Performance Areas
+
+- Academic reasoning
+- Conversational consistency
+- Technical problem solving
+- Multilingual interaction
+- Cultural language coherence
+- Programming reasoning
+- Voice interaction research
+- Real-world conversational stability
+
+---
+
+# Development Timeline
+
+| Period | Milestone |
+|---|---|
+| Dec 2024 | Initial research and ecosystem conceptualization |
+| Early 2025 | Branding, architecture planning, voice experimentation |
+| Dec 2025 | Private MVP launch of AIDEN Core |
+| 2026 | Benchmark validation and multidomain testing |
+| Future | Infrastructure scaling and ecosystem expansion |
+
+---
+
+# Infrastructure Philosophy
+
+AIDEN is being developed with a strong focus on scalable efficiency rather than oversized infrastructure during early-stage validation.
+
+The current approach prioritizes:
+
+- Controlled operational costs
+- Real capability validation
+- Incremental scalability
+- Voice-first optimization
+- Benchmark-based iteration
+
+This philosophy enables continuous development while maintaining technical flexibility and financial sustainability.
+
+---
+
+# Ecosystem Direction
+
+<p align="center">
+  <img src="docs/ecosystem_vision.png" width="100%">
+</p>
+
+The long-term AIDEN ecosystem is designed around:
+
+- Conversational AI
+- Voice systems
+- Emotional interaction
+- AI infrastructure
+- Developer APIs
+- Multimodal expansion
+- Modular assistants
+
+Future ecosystem modules will be developed progressively as infrastructure and investment capabilities expand.
+
+---
+
+# Repository Structure
+
+```text
+AIDEN/
+│
+├── README.md
+│
+├── docs/
+│   ├── AIDEN_Final_Cover.svg
+│   ├── architecture_overview.png
+│   ├── benchmark_overview.png
+│   ├── ecosystem_vision.png
+│
+├── roadmap/
+│   └── development_timeline.md
+│
+├── benchmarks/
+│   ├── benchmark_v1_reference.md
+│   └── benchmark_v2_reference.md
+│
+├── LICENSE
+│
+└── .gitignore
+```
+
+---
+
+# Official Links
+
+- 🌐 Official Website: https://www.jmcstudiocreativo.com/aiden-inteligencia-artificial-latina
+- 💼 JMC Studio Creativo: https://www.jmcstudiocreativo.com
+- 📫 Contact: contacto@jmcstudiocreativo.com
+
+---
+
+# License
+
+This repository is distributed under the MIT License.
+
+Commercial use, infrastructure integration, model deployment, or ecosystem implementation involving AIDEN technologies may require explicit authorization from JMC Studio Creativo.
+
+---
+
+# Final Statement
+
+AIDEN represents an independent Latin American initiative focused on building scalable conversational artificial intelligence systems through real-world testing, benchmark validation, and voice-centered interaction research.
+
+The current phase prioritizes technical maturity, infrastructure scalability, and ecosystem evolution based on validated development rather than speculative claims.
+
+---
+
+<p align="center">
+  <b>© 2026 JMC Studio Creativo — AIDEN AI Latina from Guayaquil, Ecuador.</b>
+</p>
 
 ---
 
