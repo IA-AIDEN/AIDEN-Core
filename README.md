@@ -143,7 +143,7 @@ The current infrastructure emphasizes:
 - Multi-environment deployment planning
 
 <p align="center">
-  <img src="assets/aiden-interface-v1.png" width="95%">
+  <img src="assets/arquitecture-v1.png" width="95%">
 </p>
 
 ---
