@@ -296,6 +296,8 @@ AIDEN represents an independent Latin American initiative focused on building sc
 
 The current phase prioritizes technical maturity, infrastructure scalability, and ecosystem evolution based on validated development rather than speculative claims.
 
+It is worth noting that AIDEN is, to date, a project entirely self-funded by its founder.
+
 ---
 
 <p align="center">
