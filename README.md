@@ -185,7 +185,7 @@ Current investment efforts are intended to accelerate:
 # Benchmark Validation
 
 <p align="center">
-  <img src="docs/benchmark_overview.png" width="100%">
+  <img src="assets/razonamiento-v1.png" width="100%">
 </p>
 
 AIDEN Core has been evaluated using real-world benchmark methodologies under non-optimized execution conditions.
