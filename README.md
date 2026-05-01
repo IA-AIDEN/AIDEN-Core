@@ -1,16 +1,4 @@
 <p align="center">
-  <img src="docs/AIDEN_Final_Cover.svg" width="35%" alt="AIDEN — Inteligencia Artificial Latina">
-</p>
-
-<h1 align="center">🤖 AIDEN Core — Inteligencia Artificial Latina</h1>
-
-<p align="center">
-  Ecosistema de modelos de IA conversacional creados desde Latinoamérica.<br>
-  Inspirado en DeepSeek y Qwen, con identidad, emoción y voz humana nativa en español.
-</p>
-
----
-<p align="center">
   <img src="docs/AIDEN_Final_Cover.svg" width="38%" alt="AIDEN — Latin American Conversational AI">
 </p>
 
