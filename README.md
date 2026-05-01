@@ -254,7 +254,7 @@ This philosophy enables continuous development while maintaining technical flexi
 # Ecosystem Direction
 
 <p align="center">
-  <img src="docs/ecosystem_vision.png" width="100%">
+  <img src="assets/entrenamiento-v1.png" width="100%">
 </p>
 
 The long-term AIDEN ecosystem is designed around:
@@ -271,33 +271,6 @@ Future ecosystem modules will be developed progressively as infrastructure and i
 
 ---
 
-# Repository Structure
-
-```text
-AIDEN/
-│
-├── README.md
-│
-├── docs/
-│   ├── AIDEN_Final_Cover.svg
-│   ├── architecture_overview.png
-│   ├── benchmark_overview.png
-│   ├── ecosystem_vision.png
-│
-├── roadmap/
-│   └── development_timeline.md
-│
-├── benchmarks/
-│   ├── benchmark_v1_reference.md
-│   └── benchmark_v2_reference.md
-│
-├── LICENSE
-│
-└── .gitignore
-```
-
----
-
 # Official Links
 
 - 🌐 Official Website: https://www.jmcstudiocreativo.com/aiden-inteligencia-artificial-latina
@@ -306,11 +279,13 @@ AIDEN/
 
 ---
 
-# License
+# Proprietary License
 
-This repository is distributed under the MIT License.
+AIDEN is proprietary technology developed by Agencia Digital JMC Studio Creativo.
 
-Commercial use, infrastructure integration, model deployment, or ecosystem implementation involving AIDEN technologies may require explicit authorization from JMC Studio Creativo.
+All rights are reserved. Commercial use, redistribution, deployment, model replication, or infrastructure integration require explicit written authorization.
+
+See the LICENSE file for additional details.
 
 ---
 
@@ -324,10 +299,4 @@ The current phase prioritizes technical maturity, infrastructure scalability, an
 
 <p align="center">
   <b>© 2026 JMC Studio Creativo — AIDEN AI Latina from Guayaquil, Ecuador.</b>
-</p>
-
----
-
-<p align="center">
-  <b>© 2026 JMC Studio Creativo — AIDEN IA Latina desde Guayaquil, Ecuador.</b>
 </p>
