@@ -19,7 +19,7 @@ Focused on voice interaction, emotional communication, multidomain reasoning, an
 
 <img src="https://img.shields.io/badge/Voice%20Systems-127fa4?style=for-the-badge&logo=googleassistant&logoColor=white">
 
-<img src="https://img.shields.io/badge/Multidomain%20Reasoning-0b7285?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Multidomain%20Reasoning-0a0a0a?style=for-the-badge&logo=databricks&logoColor=white">
 
 </p>
 
