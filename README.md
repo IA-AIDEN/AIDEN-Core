@@ -85,7 +85,7 @@ The following systems represent future expansion plans currently under conceptua
 # Technical Overview
 
 <p align="center">
-  <img src="docs/architecture_overview.png" width="95%">
+  <img src="assets/aiden-interface-v1.png" width="95%">
 </p>
 
 AIDEN follows a modular conversational AI architecture designed for scalability, voice integration, and multidomain reasoning.
